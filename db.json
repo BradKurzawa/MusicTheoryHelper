@@ -4,14 +4,6 @@
       "name": "cmaj",
       "chords": "Cmaj, Dmin, Emin, Fmaj, Gmaj, Amin, Bdim"
     }
-    {
-      "name": "cmin",
-      "chords": "Cmin, Ddim, Ebmaj, Fmin, Gmin, Abmaj, Bbmaj"
-    }
-    {
-      "name": "charm",
-      "chords": "Cmin, Ddim, Ebaug, Fmin, Gmaj, Abmaj, Bdim"
-    }
   ],
   "profile": {
     "name": "typicode"
