@@ -1,8 +1,16 @@
 {
-  "posts": [
+  "scales": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": cmaj,
+      "chords": "Cmaj, Dmin, Emin, Fmaj, Gmaj, Amin, Bdim"
+    }
+    {
+      "id": cmin,
+      "chords": "Cmin, Ddim, Ebmaj, Fmin, Gmin, Abmaj, Bbmaj"
+    }
+    {
+      "id": charm,
+      "chords": "Cmin, Ddim, Ebaug, Fmin, Gmaj, Abmaj, Bdim"
     }
   ],
   "profile": {
