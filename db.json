@@ -1,15 +1,15 @@
 {
   "scales": [
     {
-      "id": "cmaj",
+      "name": "cmaj",
       "chords": "Cmaj, Dmin, Emin, Fmaj, Gmaj, Amin, Bdim"
     }
     {
-      "id": "cmin",
+      "name": "cmin",
       "chords": "Cmin, Ddim, Ebmaj, Fmin, Gmin, Abmaj, Bbmaj"
     }
     {
-      "id": "charm",
+      "name": "charm",
       "chords": "Cmin, Ddim, Ebaug, Fmin, Gmaj, Abmaj, Bdim"
     }
   ],
