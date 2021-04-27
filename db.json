@@ -16,21 +16,20 @@
       "body": "Cmin, Ddim, Ebaug, Fmin, Gmaj, Abmaj, Bdim"
     },
     {
-	    "id": 4,
-	    "title": "Gmajor",
-	    "body": "Gmaj, Amin, Bmin, Cmaj, Dmaj, Emin, F#dim"
-	  },
-	  {
-	    "id": 5,
-	    "title": "Gminor",
-	    "body": "Gmin, Adim, Bbmaj, Cmin, Dmin, Ebmaj, Fmaj"
-	  },
-	  {
-	    "id": 6,
-	    "title": "Gharm",
-	    "body": "Gmin, Adim, Bbaug, Cmin, Dmaj, Ebmaj, F#dim"
-	  },
-
+      "id": 4,
+      "title": "Gmajor",
+      "body": "Gmaj, Amin, Bmin, Cmaj, Dmaj, Emin, F#dim"
+    },
+    {
+      "id": 5,
+      "title": "Gminor",
+      "body": "Gmin, Adim, Bbmaj, Cmin, Dmin, Ebmaj, Fmaj"
+   },
+   {
+      "id": 6,
+      "title": "Gharm",
+      "body": "Gmin, Adim, Bbaug, Cmin, Dmaj, Ebmaj, F#dim"
+   }
   ],
   "comments": [
     {
