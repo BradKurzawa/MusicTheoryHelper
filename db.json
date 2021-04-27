@@ -14,7 +14,7 @@
       "id": 3,
       "title": "Charm",
       "body": "Cmin, Ddim, Ebaug, Fmin, Gmaj, Abmaj, Bdim"
-    }
+    },
     {
       "id": 4,
       "title": "Gmajor",
@@ -29,7 +29,7 @@
       "id": 6,
       "title": "Gharm",
       "body": "Gmin, Adim, Bbaug, Cmin, Dmaj, Ebmaj, F#dim"
-    }
+    },
     {
       "id": 7,
       "title": "Dmajor",
@@ -44,7 +44,7 @@
       "id": 9,
       "title": "Dharm",
       "body": "Dmin, Edim, F#aug, Gmin, Amaj, Bbmaj, C#dim"
-    }
+    },
     {
       "id": 10,
       "title": "Amajor",
@@ -59,7 +59,6 @@
       "id": 12,
       "title": "Aharm",
       "body": "Amin, Bdim, C#aug, Dmin, Amaj, Fmaj, G#dim"
-    }
-    
+    } 
   ]
 }
