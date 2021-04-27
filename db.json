@@ -14,52 +14,7 @@
       "id": 3,
       "title": "Charm",
       "body": "Cmin, Ddim, Ebaug, Fmin, Gmaj, Abmaj, Bdim"
-    },
-    {
-      "id": 4,
-      "title": "Gmajor",
-      "body": "Gmaj, Amin, Bmin, Cmaj, Dmaj, Emin, F#dim"
-    },
-    {
-      "id": 5,
-      "title": "Gminor",
-      "body": "Gmin, Adim, Bbmaj, Cmin, Dmin, Ebmaj, Fmaj"
-    },
-    {
-      "id": 6,
-      "title": "Gharm",
-      "body": "Gmin, Adim, Bbaug, Cmin, Dmaj, Ebmaj, F#dim"
-    },
-    {
-      "id": 7,
-      "title": "Dmajor",
-      "body": "Dmaj, Emin, F#min, Gmaj, Amaj, Bmin, C#dim"
-    },
-    {
-      "id": 8,
-      "title": "Dminor",
-      "body": "Dmin, Edim, F#maj, Gmin, Amin, Bbmaj, Cmaj"
-    },
-    {
-      "id": 9,
-      "title": "Dharm",
-      "body": "Dmin, Edim, F#aug, Gmin, Amaj, Bbmaj, C#dim"
-    },
-    {
-      "id": 10,
-      "title": "Amajor",
-      "body": "Amaj, Bmin, C#min, Dmaj, Emaj, F#min, G#dim"
-    },
-    {
-      "id": 11,
-      "title": "Aminor",
-      "body": "Amin, Bdim, Cmaj, Dmin, Emin, Fmaj, Gmaj"
-    },
-    {
-      "id": 12,
-      "title": "Aharm",
-      "body": "Amin, Bdim, C#aug, Dmin, Amaj, Fmaj, G#dim"
-    } 
+    }
   ],
   "comments": [
     {
