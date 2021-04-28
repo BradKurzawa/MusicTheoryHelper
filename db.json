@@ -164,50 +164,40 @@
       "id": 30,
       "title": "Ebharm",
       "body": "Ebmin, Fdim, Gbaug, Abmin, Bbmaj, Cbmaj, Ddim"
-   },
+   }
+      
+  ],
+  "chords2": [
    {
-      "id": 31,
+      "id": 1,
       "title": "Bbmajor",
       "body": "Bbmaj, Cmin, Dmin, Ebmaj, Fmaj, Gmin, Adim"
    },
    {
-      "id": 32,
+      "id": 2,
       "title": "Bbminor",
       "body": "Bbmin, Cdim, Dbmaj, Ebmin, Fmin, Gbmaj, Abmaj"
    },
    {
-      "id": 33,
+      "id": 3,
       "title": "Bbharm",
       "body": "Bbmin, Cdim, Dbaug, Ebmin, Fmaj, Gbmaj, Adim"
    },
    {
-      "id": 34,
+      "id": 4,
       "title": "Fmajor",
       "body": "Fmaj, Gmin, Amin, Bbmaj, Cmaj, Dmin, Edim"
    },
    {
-      "id": 35,
+      "id": 5,
       "title": "Fminor",
       "body": "Fmin, Gdim, Abmaj, Bbmin, Cmin, Dbmaj, Ebmaj"
    },
    {
-      "id": 36,
+      "id": 6,
       "title": "Fharm",
       "body": "Fmin, Gdim, Abaug, Bbmin, Cmaj, Dbmaj, Edim"
    }
-      
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
   ],
   "profile": {
     "name": "typicode"
