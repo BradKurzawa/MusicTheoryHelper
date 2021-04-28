@@ -89,8 +89,113 @@
       "id": 18,
       "title": "Bharm",
       "body": "Bmin, C#dim, Daug, Emin, F#maj, Gmaj, A#dim"
+   },
+   {
+      "id": 19,
+      "title": "F#major",
+      "body": "F#maj, G#min, A#min, Bmaj, C#maj, D#min, E#dim"
+   },
+   {
+      "id": 20,
+      "title": "F#minor",
+      "body": "F#min, G#dim, Amaj, Bmin, C#min, Dmaj, Emaj"
+   },
+   {
+      "id": 21,
+      "title": "F#harm",
+      "body": "F#min, G#dim, Aaug, Bmin, C#maj, Dmaj, E#dim"
+   },
+   {
+      "id": 22,
+      "title": "Dbmajor",
+      "body": "Dbmaj, Ebmin, Fmin, Gbmaj, Abmaj, Bbmin, Cdim"
+   },
+   {
+      "id": 23,
+      "title": "Dbminor",
+      "body": "Dbmin, Ebdim, Fbmaj, Gbmin, Abmin, Bbbmaj, Cbmaj"
+   },
+   {
+      "id": 24,
+      "title": "Dbharm",
+      "body": "Dbmin, Ebdim, Fbaug, Gbmin, Abmaj, Bbbmaj, Cdim"
+   },
+    {
+      "id": 22,
+      "title": "Dbmajor",
+      "body": "Dbmaj, Ebmin, Fmin, Gbmaj, Abmaj, Bbmin, Cdim"
+   },
+   {
+      "id": 23,
+      "title": "Dbminor",
+      "body": "Dbmin, Ebdim, Fbmaj, Gbmin, Abmin, Bbbmaj, Cbmaj"
+   },
+   {
+      "id": 24,
+      "title": "Dbharm",
+      "body": "Dbmin, Ebdim, Fbaug, Gbmin, Abmaj, Bbbmaj, Cdim"
+   },
+   {
+      "id": 25,
+      "title": "Abmajor",
+      "body": "Abmaj, Bbmin, Cmin, Dbmaj, Ebmaj, Fmin, Gdim"
+   },
+   {
+      "id": 26,
+      "title": "Abminor",
+      "body": "Abmin, Bbdim, Cbmaj, Dbmin, Ebmin, Fbmaj, Gbmaj"
+   },
+   {
+      "id": 27,
+      "title": "Abharm",
+      "body": "Abmin, Bbdim, Cbaug, Dbmin, Ebmaj, Fbmaj, Gdim"
+   },
+   {
+      "id": 28,
+      "title": "Ebmajor",
+      "body": "Ebmaj, Fmin, Gmin, Abmaj, Bbmaj, Cmin, Ddim"
+   },
+   {
+      "id": 29,
+      "title": "Ebminor",
+      "body": "Ebmin, Fdim, Gbmaj, Abmin, Bbmin, Cbmaj, Dbmaj"
+   },
+   {
+      "id": 30,
+      "title": "Ebharm",
+      "body": "Ebmin, Fdim, Gbaug, Abmin, Bbmaj, Cbmaj, Ddim"
+   },
+   {
+      "id": 31,
+      "title": "Bbmajor",
+      "body": "Bbmaj, Cmin, Dmin, Ebmaj, Fmaj, Gmin, Adim"
+   },
+   {
+      "id": 32,
+      "title": "Bbminor",
+      "body": "Bbmin, Cdim, Dbmaj, Ebmin, Fmin, Gbmaj, Abmaj"
+   },
+   {
+      "id": 33,
+      "title": "Bbharm",
+      "body": "Bbmin, Cdim, Dbaug, Ebmin, Fmaj, Gbmaj, Adim"
+   },
+   {
+      "id": 34,
+      "title": "Fmajor",
+      "body": "Fmaj, Gmin, Amin, Bbmaj, Cmaj, Dmin, Edim"
+   },
+   {
+      "id": 35,
+      "title": "Fminor",
+      "body": "Fmin, Gdim, Abmaj, Bbmin, Cmin, Dbmaj, Ebmaj"
+   },
+   {
+      "id": 36,
+      "title": "Fharm",
+      "body": "Fmin, Gdim, Abaug, Bbmin, Cmaj, Dbmaj, Edim"
    }
-    
+      
   ],
   "comments": [
     {
