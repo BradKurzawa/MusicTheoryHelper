@@ -29,7 +29,68 @@
       "id": 6,
       "title": "Gharm",
       "body": "Gmin, Adim, Bbaug, Cmin, Dmaj, Ebmaj, F#dim"
+   },
+   {
+      "id": 7,
+      "title": "Dmajor",
+      "body": "Dmaj, Emin, F#min, Gmaj, Amaj, Bmin, C#dim"
+   },
+   {
+      "id": 8,
+      "title": "Dminor",
+      "body": "Dmin, Edim, F#maj, Gmin, Amin, Bbmaj, Cmaj"
+   },
+   {
+      "id": 9,
+      "title": "Dharm",
+      "body": "Dmin, Edim, F#aug, Gmin, Amaj, Bbmaj, C#dim"
+   },
+   {
+      "id": 10,
+      "title": "Amajor",
+      "body": "Amaj, Bmin, C#min, Dmaj, Emaj, F#min, G#dim"
+   },
+   {
+      "id": 11,
+      "title": "Aminor",
+      "body": "Amin, Bdim, Cmaj, Dmin, Emin, Fmaj, Gmaj"
+   },
+   {
+      "id": 12,
+      "title": "Aharm",
+      "body": "Amin, Bdim, C#aug, Dmin, Amaj, Fmaj, G#dim"
+   },
+   {
+      "id": 13,
+      "title": "Emajor",
+      "body": "Emaj, F#min, G#min, Amaj, Bmaj, C#min, D#dim"
+   },
+   {
+      "id": 14,
+      "title": "Eminor",
+      "body": "Emin, F#dim, Gmaj, Amin, Bmin, Cmaj, Dmaj"
+   },
+   {
+      "id": 15,
+      "title": "Eharm",
+      "body": "Emin, F#dim, Gaug, Amin, Bmaj, Cmaj, D#dim"
+   },
+   {
+      "id": 16,
+      "title": "Bmajor",
+      "body": "Bmaj, C#min, D#min, Emaj, F#maj, G#min, A#dim"
+   },
+   {
+      "id": 17,
+      "title": "Bminor",
+      "body": "Bmin, C#dim, Dmaj, Emin, F#min, Gmaj, Amaj"
+   },
+   {
+      "id": 18,
+      "title": "Bharm",
+      "body": "Bmin, C#dim, Daug, Emin, F#maj, Gmaj, A#dim"
    }
+    
   ],
   "comments": [
     {
