@@ -120,21 +120,6 @@
       "title": "Dbharm",
       "body": "Dbmin, Ebdim, Fbaug, Gbmin, Abmaj, Bbbmaj, Cdim"
    },
-    {
-      "id": 22,
-      "title": "Dbmajor",
-      "body": "Dbmaj, Ebmin, Fmin, Gbmaj, Abmaj, Bbmin, Cdim"
-   },
-   {
-      "id": 23,
-      "title": "Dbminor",
-      "body": "Dbmin, Ebdim, Fbmaj, Gbmin, Abmin, Bbbmaj, Cbmaj"
-   },
-   {
-      "id": 24,
-      "title": "Dbharm",
-      "body": "Dbmin, Ebdim, Fbaug, Gbmin, Abmaj, Bbbmaj, Cdim"
-   },
    {
       "id": 25,
       "title": "Abmajor",
